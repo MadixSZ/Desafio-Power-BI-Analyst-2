@@ -9,12 +9,12 @@
 
 ### Página 1: Sales Report
 <div align="center">
-  <img src="image_3f4a36.png" alt="Dashboard Página 1" width="850">
+  <img src="Captura de tela 2026-10-09 014559.png" alt="Dashboard Página 1" width="850">
 </div>
 
 ### Página 2: Report de Lucro Detalhado
 <div align="center">
-  <img src="image_3f4a3b.png" alt="Dashboard Página 2" width="850">
+  <img src="Captura de tela 2026-10-09 014552.png" alt="Dashboard Página 2" width="850">
 </div>
 
 <br>
